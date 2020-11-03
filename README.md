@@ -14,4 +14,5 @@ Given a record of every transaction during a three month period, calculate the r
 # Instruction
 
 -- npm install
+
 -- npm start
